@@ -45,9 +45,9 @@ Data Visualizations performed using Matplotlib And Seaborn
 # Exploratory Data Analysis
 <br>
 1.No of hotel bookings based on the arrival year
-<br><img width="650" alt="Screenshot 2023-06-28 214613" src="https://github.com/Abhigna41/Python--Hotel-Booking-Analysis/assets/131294405/a0065e97-51cd-4af0-a0ec-9953424916c0">
+<br><img width="650" alt="Screenshot 2023-06-28 214613" src="https://github.com/Abhigna41/Python--Hotel-Booking-Analysis/assets/131294405/a0065e97-51cd-4af0-a0ec-9953424916c0"><br>
 2.The total no nights stayed by adding 'stays_in_weekend_nights' and 'stays_in_week_nights' columns in the 'hotel_df dataframe.<br>
-<img width="671" alt="Screenshot 2023-06-28 214708" src="https://github.com/Abhigna41/Python--Hotel-Booking-Analysis/assets/131294405/d9e53ee9-a23c-4dc1-985b-3456972362aa">
+<img width="671" alt="Screenshot 2023-06-28 214708" src="https://github.com/Abhigna41/Python--Hotel-Booking-Analysis/assets/131294405/d9e53ee9-a23c-4dc1-985b-3456972362aa"><br>
 3.Creates the pie chart using month_df<br>
 <img width="370" alt="Screenshot 2023-06-28 214818" src="https://github.com/Abhigna41/Python--Hotel-Booking-Analysis/assets/131294405/69d7ae88-a202-48c7-a092-c36057dd249e">
 
