@@ -1,7 +1,7 @@
 # Python--Hotel-Booking-Analysis
 __Project Objective__<br>
 
- The objective of the project is to analyze hotel booking data and gain insights into booking patterns, customer behavior, and revenue optimization within the hotel industry. The project aims to identify seasonal variations in bookings, segment customers based on their booking behavior, analyze pricing and revenue trends, By achieving these objectives, the project seeks to provide actionable recommendations for hotels to improve their operations, marketing strategies, and guest experiences.
+The objective of the project is to analyze hotel booking data and gain insights into booking patterns, customer behavior, and revenue optimization within the hotel industry. The project aims to identify seasonal variations in bookings, segment customers based on their booking behavior, analyze pricing and revenue trends, By achieving these objectives, the project seeks to provide actionable recommendations for hotels to improve their operations, marketing strategies, and guest experiences.
 <br>
 <br>
 # Data Analysis
