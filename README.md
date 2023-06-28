@@ -18,5 +18,10 @@ Take a look at the structure and content of the dataset by using functions such 
 <br>
 <br>
 # Data Cleaning and Preprocessing
-
+<br> **Removing Duplicates**:
+Identified duplicate rows or columns using the  **duplicated()** function.
+<br>Using the **drop_duplicates()** function dropped the duplicates.
+<br>
+<br>
+**Handling Missing Values:**
 
