@@ -44,6 +44,7 @@ Data Visualizations performed using Matplotlib And Seaborn
 
 # Exploratory Data Analysis
 <br>
+EDA is an approach to analyzing and summarizing data sets in order to understand their main characteristics, patterns, and relationships. EDA involves using various statistical and visualization techniques to explore the data, identify trends, uncover hidden patterns, detect outliers, and gain insights that can inform further analysis or decision-making.<br><br>
 1.No of hotel bookings based on the arrival year
 <br><img width="650" alt="Screenshot 2023-06-28 214613" src="https://github.com/Abhigna41/Python--Hotel-Booking-Analysis/assets/131294405/a0065e97-51cd-4af0-a0ec-9953424916c0"><br>
 2.The total no nights stayed by adding 'stays_in_weekend_nights' and 'stays_in_week_nights' columns in the 'hotel_df dataframe.<br>
